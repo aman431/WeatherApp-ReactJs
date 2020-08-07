@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/aman431/Weather_App.git/static/css/main.3f11e663.chunk.css",
+    "main.js": "/aman431/Weather_App.git/static/js/main.f79ba5fd.chunk.js",
+    "main.js.map": "/aman431/Weather_App.git/static/js/main.f79ba5fd.chunk.js.map",
+    "runtime-main.js": "/aman431/Weather_App.git/static/js/runtime-main.b08c681e.js",
+    "runtime-main.js.map": "/aman431/Weather_App.git/static/js/runtime-main.b08c681e.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/aman431/Weather_App.git/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.8ba06a4d.chunk.js": "/aman431/Weather_App.git/static/js/2.8ba06a4d.chunk.js",
+    "static/js/2.8ba06a4d.chunk.js.map": "/aman431/Weather_App.git/static/js/2.8ba06a4d.chunk.js.map",
+    "index.html": "/aman431/Weather_App.git/index.html",
+    "precache-manifest.51b90a88ec38398e255b2eb38661b958.js": "/aman431/Weather_App.git/precache-manifest.51b90a88ec38398e255b2eb38661b958.js",
+    "service-worker.js": "/aman431/Weather_App.git/service-worker.js",
+    "static/css/2.ed439b8d.chunk.css.map": "/aman431/Weather_App.git/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.3f11e663.chunk.css.map": "/aman431/Weather_App.git/static/css/main.3f11e663.chunk.css.map",
+    "static/js/2.8ba06a4d.chunk.js.LICENSE.txt": "/aman431/Weather_App.git/static/js/2.8ba06a4d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/aman431/Weather_App.git/static/media/Universe.d5eadc35.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b08c681e.js",
+    "static/css/2.ed439b8d.chunk.css",
+    "static/js/2.8ba06a4d.chunk.js",
+    "static/css/main.3f11e663.chunk.css",
+    "static/js/main.f79ba5fd.chunk.js"
+  ]
+}
